@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋  I'm houseme
 
 <!--
 **houseme/houseme** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+[![](https://komarev.com/ghpvc/?username=houseme)](https://github.com/houseme)
+[![](https://img.shields.io/github/followers/houseme?label=Follow&style=social)](https://github.com/houseme)
+
+- 🔭 I’m currently working with go.
+
+[![](https://github-readme-stats.vercel.app/api?username=houseme&show_icons=true&count_private=true&line_height=40)]()
