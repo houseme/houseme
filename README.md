@@ -27,6 +27,11 @@ I'm a **Software Engineer** passionate about building robust and scalable system
 
 ---
 
+[![rustfs](https://github-readme-stats.vercel.app/api/pin/?username=houseme&repo=sensitive-rs)](https://github.com/houseme/sensitive-rs)  
+**@houseme/sensitive-rs**  
+> A high-performance Rust crate for multi-pattern string matching, validation, filtering, and replacement.
+---
+
 ## 🛠️ Tech Stack
 
 ![Rust](https://img.shields.io/badge/Rust-000?style=flat&logo=rust)  
