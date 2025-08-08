@@ -42,8 +42,8 @@ I'm a **Software Engineer** passionate about building robust and scalable system
 
 ## 🌐 Connect
 
-- [Twitter / X](https://x.com/housemecn)
-- [Personal Website](https://rs.bifuba.com)
+- [Twitter / X](https://x.com/housemecn?source=github)
+- [Personal Website](https://rs.bifuba.com?source=github)
 
 ---
 
